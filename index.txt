@@ -1,0 +1,6 @@
+Hello Git
+<<<<<<< HEAD
+Main Branch Update
+=======
+This is a new feature from feature1 branch.
+>>>>>>> feature1
